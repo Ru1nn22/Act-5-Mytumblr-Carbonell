@@ -1,10 +1,10 @@
 <?php 
 session_start();
 
-$acc_username = "Ru1nn";
-$acc_password = "Ru1nn22";
-$acc_fullname = "Roi Jewel Carbonell";
-$acc_address = "Marinduque PH";
+$acc_username = "Arthur Morgan";
+$acc_password = "IsaacRIP";
+$acc_fullname = "Arthur Morgan";
+$acc_address = "Blackwater USA";
 
 $url_add = "http://".$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
 
